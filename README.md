@@ -7,10 +7,14 @@ A power station is on one side of a river that is one-half mile wide, and a fact
 
 ![screenshot 40](https://user-images.githubusercontent.com/42519511/44607180-8366a580-a7bd-11e8-9db0-6451be800667.png)
 
-The user enters the following:
-a.	The width of the river
-b.	The distance of the factory downstream on the other side of the river
-c.	The cost of laying the power line under water
-d.	The cost of laying the power line over land. 
+The user enters the following: 
+
+a. the width of the river 
+
+b. the distance of the factory downstream on the other side of the river
+
+c. The cost of laying the power line under water
+
+d. The cost of laying the power line over land. 
 
 The program then outputs the length of the power line that should run under water and the length that should run over land so the cost of constructing the power line is at the minimum. The program also outputs the total cost of constructing the power line. 
