@@ -1,5 +1,5 @@
 # PowerlineOptimization
-Given simple environmental constraints,optimization of laying wire between power stations for lowest costing solution that is viable.
+Given simple environmental constraints, optimization of laying wire between power stations for lowest costing solution that is viable.
 
 The prompt for the constraints is listed below:
 
